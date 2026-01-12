@@ -1,4 +1,5 @@
-## Hi there 👋
+## patara-hub.github.io
+This repository contains files for CIS300 Project Assignments.
 
 <!--
 **patara-hub/patara-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
